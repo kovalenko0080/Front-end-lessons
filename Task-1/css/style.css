@@ -1,21 +1,21 @@
+/* Recomend to install prettier to make it more beautiful */
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 .container {
   font-family: "Quicksand", sans-serif;
   background-color: #e3e3e3;
-text-align: center;
-}
-.name {
-font-family: cursive;
+  text-align: center;
 }
 .container img {
   width: auto;
   height: 300px;
   border-radius: 50%;
 }
-.header, .footer, .main {
-border-style: solid;
-border-width: 2px;
-border-color: lightgrey;
-border-radius: 5px;
-margin: 10px;
+.header,
+.footer,
+.main {
+  border-style: solid;
+  border-width: 2px;
+  border-color: lightgrey;
+  border-radius: 5px;
+  margin: 10px;
 }
