@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+.container {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  background-color: #FFA500;
+}
+.nature{
+  text-align: center;
+}
+.save{
+  font-family: "Quicksand", light;
+text-shadow: red 2px 5px;
+}
+.main img {
+  width: auto;
+  height: 300px;
+  border-radius: 50%;
+}
+.contact {
+  text-shadow:  1px 1px 2px pink;
+}
+.footer {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
